@@ -1,0 +1,15 @@
+data/raw/*
+!data/raw/TCGA_masked_maf_manifest_2026-10-21.txt
+!data/raw/GDC_TCGA_masked_maf_case_project_2026-10-22.tsv
+!data/raw/CPTAC_masked_maf_manifest.txt
+!data/raw/GDC_CPTAC_masked_maf_case_map_2026-11-09.tsv
+!data/raw/netnglyc/
+data/processed/
+results/*
+!results/reglyco_gain/
+!results/tables/
+results/tables/*
+!results/tables/P2_19_reglyco_filled.tsv
+foldx5_Windows/
+writing/*.docx
+__pycache__/

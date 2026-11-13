@@ -1,0 +1,13 @@
+{
+  "title": "SqnPAN: analysis code, supplementary tables and glycan models for \"Somatic loss of N-glycosylation sequons occurs at the rate expected from mutational processes across 33 tumour types\"",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>Analysis code (Python and R), Supplementary Tables S1 to S40 and the Re-Glyco glycan models of Figure 7F for the article <em>Somatic loss of N-glycosylation sequons occurs at the rate expected from mutational processes across 33 tumour types</em> (A. Balasundar, 2026). Somatic missense mutations of 10,190 TCGA tumours of 33 cancer types are mapped to N-glycosylation sequons with experimental evidence, and sequon-destroying substitutions are compared with other N, S and T substitutions of the same proteins by a position-count test, a trinucleotide-context model and dNdScv against a pre-specified equivalence margin, with null and planted-effect controls. The scripts reproduce every result, table and figure of the article from the public files listed in data/README_data.md; each script header holds its dated pre-specification. See README.md for the run order.</p>",
+  "creators": [
+    {"name": "Balasundar, Anishkiran", "affiliation": "Independent Researcher, Kanyakumari district, Tamil Nadu, India", "orcid": "0009-0007-7056-5356"}
+  ],
+  "keywords": ["N-glycosylation", "sequon", "somatic mutation", "negative selection", "equivalence testing", "mutational signatures", "germline variation", "pan-cancer analysis", "TCGA", "CPTAC"],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng"
+}
